@@ -90,7 +90,7 @@ public:
 
 int main() {
     int size;
-    cout<< "enter the size of the array : " ;
+    cout<< "enter the size of the Stack : " ;
     cin>> size;
     Stack demo(size);
 
