@@ -60,7 +60,7 @@ public:
         }
         
         // Calculating the average time 
-        cout << "Average time to other cities :  "<< totalCost/V << endl;
+        cout << "Average time to other cities :  "<< totalCost/(V-1) << endl;
     }
 };
 
